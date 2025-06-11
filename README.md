@@ -1,6 +1,6 @@
  <!-- Profile Header with Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sophearyrin-dev/sophearyrin-dev/main/images/banner-phearygithub.png" alt="Welcome Banner" style="border-radius: 15px;" />
+  <img src="https://raw.githubusercontent.com/sophearyrin-dev/sophearyrin-dev/main/images/banner-phearygithub.png" alt="Welcome Banner" style="border-radius:15px;" />
 </p>
 
 <h1 align="center">Hey there! 👋 I'm <span style="color:#4F46E5;">Pranav Chopade</span></h1>
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="mailto:pranavchopade129@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/pranav-chopade" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="nkedin.com/in/pranav-chopade-140b6a245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="http://pranavchopade-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
@@ -62,9 +62,9 @@
 - ✅ Build and contribute to **high-impact projects**
 - ✅ Continuously improve **problem-solving skills** and **code quality standards**
 - ✅ Collaborate on **team-based software projects** to grow as a full-stack developer
-
+- 
  ---
-
+ 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+awesome+projects+🚀;" alt="Typing SVG" />
 </p>
