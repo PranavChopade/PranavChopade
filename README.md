@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="mailto:pranavchopade129@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="nkedin.com/in/pranav-chopade-140b6a245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="linkedin.com/in/pranav-chopade-140b6a245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="http://pranavchopade-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
@@ -41,7 +41,7 @@
 ### ⚙️ Backend & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" />
+   <img alt="Next.js" src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" />
@@ -49,8 +49,13 @@
 
 ### 🧩 Currently Exploring
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" />
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="50" />
+
+<div align="center">
+ <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" />
+   <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="50" />
+</div>
+
+
 </p>
 
 ---
