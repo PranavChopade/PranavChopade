@@ -64,9 +64,4 @@
 - ✅ Collaborate on **team-based software projects** to grow as a full-stack developer
 - 
  ---
- 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+awesome+projects+🚀;" alt="Typing SVG" />
-</p>
-
-
+  
