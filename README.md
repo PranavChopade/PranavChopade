@@ -18,8 +18,7 @@
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently learning **Next.js**
+## 🚀 About Me 
 - 💻 Passionate about **Frontend Development** and building seamless user experiences
 - 🎯 Focused on writing clean, scalable, and maintainable code
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind CSS, CRUD Operations**
